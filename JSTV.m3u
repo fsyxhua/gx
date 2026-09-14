@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://e.erw.cc/e.xml.gz"
+#EXTM3U name="电信IPTV组播节目单" url-tvg="http://e.erw.cc/e.xml.gz" x-tvg-url="http://e.erw.cc/e.xml.gz"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
 http://192.168.123.1:8888/rtp/239.49.0.207:8000
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
