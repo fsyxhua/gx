@@ -49,7 +49,7 @@ http://192.168.123.1:8888/rtp/239.49.8.56:9826
 http://192.168.123.1:8888/rtp/239.49.8.136:6000
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15
 http://192.168.123.1:8888/rtp/239.49.0.128:8000
-#EXTINF:-1 tvg-id="CCTV16-4K" tvg-name="CCTV16-4K" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K",CCTV16-4K
 http://192.168.123.1:8888/rtp/239.49.0.109:8000
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
 http://192.168.123.1:8888/rtp/239.49.8.31:8000
@@ -69,23 +69,23 @@ http://192.168.123.1:8888/rtp/239.49.0.82:8000
 http://192.168.123.1:8888/rtp/239.49.1.82:8000
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://192.168.123.1:8888/rtp/239.49.1.64:8000
-#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="4K",浙江卫视
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="4K",浙江卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.63:8000
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://192.168.123.1:8888/rtp/239.49.8.139:6000
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
 http://192.168.123.1:8888/rtp/239.49.1.72:8000
-#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="4K",山东卫视
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="4K",山东卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.71:8000
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
 http://192.168.123.1:8888/rtp/239.49.8.146:6000
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="4K",北京卫视
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="4K",北京卫视4K
 http://192.168.123.1:8888/rtp/239.49.0.253:8000
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
 http://192.168.123.1:8888/rtp/239.49.0.42:8000
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
 http://192.168.123.1:8888/rtp/239.49.8.141:6000
-#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="4K",江苏卫视
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="4K",江苏卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.62:8000
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://192.168.123.1:8888/rtp/239.49.1.61:8000
@@ -95,23 +95,23 @@ http://192.168.123.1:8888/rtp/239.49.8.125:8000
 http://192.168.123.1:8888/rtp/239.49.8.138:6000
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
 http://192.168.123.1:8888/rtp/239.49.1.70:8000
-#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="4K",东方卫视
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="4K",东方卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.69:8000
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
 http://192.168.123.1:8888/rtp/239.49.8.140:6000
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://192.168.123.1:8888/rtp/239.49.1.68:8000
-#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="4K",湖南卫视
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="4K",湖南卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.67:8000
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://192.168.123.1:8888/rtp/239.49.8.142:6000
-#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="4K",广东卫视
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="4K",广东卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.26:8000
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
 http://192.168.123.1:8888/rtp/239.49.1.24:8000
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
 http://192.168.123.1:8888/rtp/239.49.8.143:6000
-#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="4K",深圳卫视
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="4K",深圳卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.28:8000
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://192.168.123.1:8888/rtp/239.49.1.27:8000
@@ -137,7 +137,7 @@ http://192.168.123.1:8888/rtp/239.49.8.57:9830
 http://192.168.123.1:8888/rtp/239.49.8.149:6000
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
 http://192.168.123.1:8888/rtp/239.49.1.66:8000
-#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="4K",四川卫视
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="4K",四川卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.65:8000
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
 http://192.168.123.1:8888/rtp/239.49.8.110:8000
