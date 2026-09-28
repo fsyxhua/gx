@@ -67,13 +67,13 @@ http://219.139.43.49:44444/hls/5/index.m3u8
 http://192.168.123.1:8888/rtp/239.49.0.82:8000
 #EXTINF:-1 tvg-id="中央新影中学生" tvg-name="中央新影中学生" tvg-logo="https://epg.112114.xyz/logo/中央新影中学生.png" group-title="央视",中央新影中学生
 http://192.168.123.1:8888/rtp/239.49.1.82:8000
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="4K",浙江卫视4kHDR
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="4K-HDR",浙江卫视4k
 http://192.168.123.1:8888/rtp/239.49.1.64:8000
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="4K",浙江卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.63:8000
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://192.168.123.1:8888/rtp/239.49.8.20:9618
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="4K",山东卫视4KHDR
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="4K-HDR",山东卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.72:8000
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="4K",山东卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.71:8000
@@ -81,37 +81,37 @@ http://192.168.123.1:8888/rtp/239.49.1.71:8000
 http://192.168.123.1:8888/rtp/239.49.8.7:9306
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="4K",北京卫视4K
 http://192.168.123.1:8888/rtp/239.49.0.42:8000
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="4K",北京卫视4KHDR
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="4K-HDR",北京卫视4K
 http://192.168.123.1:8888/rtp/239.49.0.253:8000
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
 http://192.168.123.1:8888/rtp/239.49.8.11:9414
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="4K",江苏卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.61:8000
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="4K",江苏卫视4KHDR
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="4K-HDR",江苏卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.62:8000
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://192.168.123.1:8888/rtp/239.49.8.16:9602
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://192.168.123.1:8888/rtp/239.49.8.125:8000
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="4K",东方卫视4KHDR
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="4K-HDR",东方卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.70:8000
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="4K",东方卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.69:8000
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
 http://192.168.123.1:8888/rtp/239.49.8.17:9606
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="4K",湖南卫视4KHDR
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="4K-HDR",湖南卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.68:8000
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="4K",湖南卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.67:8000
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://192.168.123.1:8888/rtp/239.49.8.12:9418
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="4K",广东卫视4KHDR
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="4K-HDR",广东卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.26:8000
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="4K",广东卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.24:8000
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
 http://192.168.123.1:8888/rtp/239.49.8.13:9422
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="4K",深圳卫视4KHDR
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="4K-HDR",深圳卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.28:8000
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="4K",深圳卫视4K
 http://192.168.123.1:8888/rtp/239.49.1.27:8000
